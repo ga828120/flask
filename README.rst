@@ -5,10 +5,10 @@ https://github.com/deepikagithub/CreditCardFraudDetection
 
 <property>
 <name>fs.s3a.access.key</name>
-<value>youraccesskey</value> </property>
+<value>AKIAI2TN36Q7YJTYDWSQ</value> </property>
 <property>
 <name>fs.s3a.secret.key</name>
-<value>yoursecretkey</value> </property>
+<value>Q9WOw9vqjXJT/wR1PU3nMFDiyqKmUZpvnJvyLNzP</value> </property>
 
 Access key ID  Secret access key
 AKIAI2TN36Q7YJTYDWSQ  Q9WOw9vqjXJT/wR1PU3nMFDiyqKmUZpvnJvyLNzP
