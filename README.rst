@@ -10,6 +10,9 @@ https://github.com/deepikagithub/CreditCardFraudDetection
 <name>fs.s3a.secret.key</name>
 <value>yoursecretkey</value> </property>
 
+Access key ID  Secret access key
+AKIAI2TN36Q7YJTYDWSQ  Q9WOw9vqjXJT/wR1PU3nMFDiyqKmUZpvnJvyLNzP
+
 Flask is a lightweight `WSGI`_ web application framework. It is designed
 to make getting started quick and easy, with the ability to scale up to
 complex applications. It began as a simple wrapper around `Werkzeug`_
